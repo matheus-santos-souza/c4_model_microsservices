@@ -1,7 +1,7 @@
 # C4 MODEL -> MICROSSERVICES
 
 ## Context
-![Context Image](./context-image.png)
+![Context Image](./context.png)
 
 ## Containers
-![Containers Image](./containers-image.png)
+![Containers Image](./containers.png)
